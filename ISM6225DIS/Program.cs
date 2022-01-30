@@ -6,7 +6,7 @@ namespace ISM6225DIS
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Bye Bye World!");
 		}
 	}
 }
