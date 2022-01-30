@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISM6225DIS", "ISM6225DIS\ISM6225DIS.csproj", "{5915E3DD-5DAC-452C-80B5-9C42839676F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5915E3DD-5DAC-452C-80B5-9C42839676F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5915E3DD-5DAC-452C-80B5-9C42839676F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5915E3DD-5DAC-452C-80B5-9C42839676F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5915E3DD-5DAC-452C-80B5-9C42839676F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC10BD9-5D77-43F1-B1ED-4CA386D4A307}
+	EndGlobalSection
+EndGlobal
